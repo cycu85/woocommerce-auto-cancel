@@ -46,6 +46,10 @@ This plugin includes translations for the following languages:
 - **Send Cancellation Email**: Enable/disable email notifications to customers upon order cancellation.
 - **Email Template Customization**: Customize the email template by copying the template files from the plugin directory to your theme’s WooCommerce email folder.
 
+  
+![alt text](https://github.com/cycu85/woocommerce-auto-cancel/blob/main/wac1.png)
+
+
 == Frequently Asked Questions ==
 
 **Q: Will this plugin notify customers when their orders are canceled?**  
